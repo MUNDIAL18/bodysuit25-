@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://laboratoriotenicolecturarapida.blogspot.com/2022/04/portada.html?m=1" width="140" height="140"/>
+<img src="./src/assistant.jpg" width="140" height="140"/>
 </p>
 <p align="center">
 <a href="#"><img title="bodysuit" src="https://img.shields.io/badge/🧑‍🏫 Artes de aprender| 🔥Alex García|🔥 soporte de números-black?colorA=%23ff0000&colorB=%23000000&style=for-the-badge"></a>
